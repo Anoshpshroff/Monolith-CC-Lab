@@ -15,3 +15,4 @@ add_product:
 Added input validation to ensure product is a dictionary.
 update_qty:
 Added an additional safeguard to ensure the quantity is not negative before updating.
+ s
